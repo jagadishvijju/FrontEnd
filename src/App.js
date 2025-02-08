@@ -139,6 +139,9 @@ function App() {
           overflowY: "auto",
           border: "1px solid #ddd",
           borderRadius: "5px",
+          overflowY: "auto",
+          overflowX: "hidden",
+          maxHeight: "200px",
         }}
       >
         <table
